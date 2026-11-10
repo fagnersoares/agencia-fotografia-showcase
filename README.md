@@ -81,16 +81,23 @@ flowchart LR
 
 > Prints feitos com dados fictícios de demonstração.
 
-<!-- PRINTS: substituir os caminhos pelos arquivos reais em docs/prints/ -->
+### Login
+![Tela de login](docs/prints/01-login.png)
 
-| Tela | Preview |
-|---|---|
-| Login | `docs/prints/01-login.png` |
-| Painel administrativo | `docs/prints/02-admin-dashboard.png` |
-| Publicações e calendário | `docs/prints/03-admin-publicacoes.png` |
-| Editor de publicação com versões | `docs/prints/04-admin-editor.png` |
-| Área do cliente: aprovação | `docs/prints/05-cliente-aprovacao.png` |
-| Financeiro | `docs/prints/06-admin-pagamentos.png` |
+### Painel administrativo
+![Painel administrativo](docs/prints/02-admin-dashboard.png)
+
+### Publicações
+![Lista de publicações](docs/prints/03-admin-publicacoes.png)
+
+### Editor de publicação com versões
+![Editor de publicação com histórico de versões](docs/prints/04-admin-editor.png)
+
+### Área do cliente: aprovação
+![Área do cliente com publicações para aprovação](docs/prints/05-cliente-aprovacao.png)
+
+### Financeiro
+![Contas a receber](docs/prints/06-admin-pagamentos.png)
 
 ## Status
 
